@@ -4,3 +4,9 @@ C:\Users\Zachary\Documents\GitHub\Poker\Poker\bin\Debug\Poker.exe
 C:\Users\Zachary\Documents\GitHub\Poker\Poker\bin\Debug\Poker.pdb
 C:\Users\Zachary\Documents\GitHub\Poker\Poker\obj\Debug\Poker.exe
 C:\Users\Zachary\Documents\GitHub\Poker\Poker\obj\Debug\Poker.pdb
+C:\Users\Admin\Documents\GitHub\Poker\Poker\bin\Debug\Poker.exe.config
+C:\Users\Admin\Documents\GitHub\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\Admin\Documents\GitHub\Poker\Poker\obj\Debug\Poker.pdb
+C:\Users\Admin\Documents\GitHub\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\Admin\Documents\GitHub\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\Admin\Documents\GitHub\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache

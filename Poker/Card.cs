@@ -9,7 +9,7 @@ namespace Poker
     public class Card
     {
         public enum Suit { Spades, Hearts, Diamonds, Clubs }
-        public enum Value { One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Jack, Queen, King, Ace }
+        public enum Value { Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Jack, Queen, King, Ace }
 
         public Suit CardSuit { get; set; }
         public Value CardValue { get; set; }
